@@ -12,5 +12,9 @@ root.render(
     <App />
 
     <WeatherSearch />
+    <footer>
+      a href ="https://github.com/BerryPasse/React-Weather-SheCodes"Open Source
+      Code
+    </footer>
   </StrictMode>
 );
