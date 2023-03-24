@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./weather.css";
 import Weather from "./Weather";
 
 export default function App() {
@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <h1>Weather Forecast</h1>
-
+        <Weather />
         <footer>
           <a href="https://github.com/BerryPasse/React-Weather-SheCodes"></a>
         </footer>
