@@ -9,9 +9,9 @@ export default function App() {
         <Weather defaultCity="Baltimore" />
 
         <footer>
-          {" "}
-          Sonya B's Open Code
-          <a href="https://github.com/BerryPasse/React-Weather-SheCodes"></a>
+          <a href="https://github.com/BerryPasse/React-Weather-SheCodes">
+            Sonya B's Open Code
+          </a>
         </footer>
       </div>
     </div>
