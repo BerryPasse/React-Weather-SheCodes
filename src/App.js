@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           <a href="https://github.com/BerryPasse/React-Weather-SheCodes">
             Sonya B's Open Code
-          </a>
+          </a>{" "}
         </footer>
       </div>
     </div>
